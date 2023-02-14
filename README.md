@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @YoussefBechara
-- 👀 I’m interested in algorithms
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Statistics
+- 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me  youssefbechara.ap@gmail.com
+-  You're very much Welcome to my coding community Dahye Room:https://discord.gg/MsyMKsYX
+-  My twitter: @YoussefBechara7
+I hope you have a good day fellow coder!
 
 <!---
 YoussefBechara/YoussefBechara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
