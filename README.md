@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Youssef Bechara and I'm a AI student from Lebanon!</h2>
+<h2 align="left">Hi 👋! My name is Youssef Bechara and I'm an AI student</h2>
 
 ###
 
