@@ -1,4 +1,4 @@
-# 🚀 Youssef Bechara | AI Engineer & Data Scientist
+# 🚀 Youssef Bechara | AI Enthousiaste
 
 <div align="center">
   
