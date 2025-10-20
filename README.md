@@ -1,4 +1,4 @@
-# 🚀 Youssef Bechara | AI Enthousiaste
+# 🚀 Youssef Bechara | AI Enthousiast
 
 <div align="center">
   
@@ -21,7 +21,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🔥 **Passionate AI Engineer** with expertise in deep learning and algorithmic trading
+🔥 **Passionate about Aritificial Intelligence** with expertise in deep learning and algorithmic trading
 
 🎯 **Current Mission:** Revolutionizing financial markets through intelligent automation
 
