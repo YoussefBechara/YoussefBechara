@@ -1,4 +1,4 @@
-# 🚀 Youssef Bechara | AI Enthousiast
+# 🚀 Youssef Bechara
 
 <div align="center">
   
