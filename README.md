@@ -2,9 +2,9 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=🤖+AI+Engineer+%7C+Data+Scientist;🧠+Deep+Learning+Specialist;📊+Algorithmic+Trading+Expert;🚀+Building+Tomorrow's+Intelligence;💡+Transforming+Data+into+Insights;🔬+Neural+Network+Architect;⚡+Real-time+ML+Solutions)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=🤖+AI+Developer+%7C+Data+Scientist;🧠+Deep+Learning+Specialist;📊+Algorithmic+Trading+Expert;🚀+Building+Tomorrow's+Intelligence;💡+Transforming+Data+into+Insights;🔬+Neural+Network+Architect;⚡+Real-time+ML+Solutions)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"> -->
 
 </div>
 
@@ -161,7 +161,7 @@ MQL5 Expert Advisors | Risk Management | Market Analysis | Strategy Optimization
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
 ### 🔬 Data Science
-Statistical Analysis | Feature Engineering | Model Deployment | MLOps
+Statistical Analysis | Model Deployment | MLOps
 
 </td>
 <td align="center" width="25%">
