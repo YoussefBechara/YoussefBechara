@@ -1,5 +1,3 @@
-# 💹 Youssef Bechara
-
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=100&lines=Quantitative+Trading+Developer;MQL5+Expert+Advisor+Architect;Machine+Learning+%7C+Deep+Learning;Turning+Market+Data+Into+Alpha)
@@ -295,22 +293,12 @@ Automated video generation and upload system
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/youssefbechara/youssefbechara/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,21&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=00ff88&animation=twinkling&fontAlignY=70" width="100%"/>
 
-### 💡 *"In trading, as in life: adapt, learn, and evolve"*
+### 💡 *"Life is all about adapting, learning, and evolving"*
 
 **⭐ Open to collaborations • 💬 Let's build something amazing • 🚀 Always learning**
 
-<sub>🔄 Last Updated: December 2024 | 💹 Built with passion for quantitative trading | ⚡ Powered by data & algorithms</sub>
+<sub>🔄 Last Updated: December 2025 | 💹 Built with passion for quantitative trading | ⚡ Powered by passion & ambition</sub>
 
 </div>
