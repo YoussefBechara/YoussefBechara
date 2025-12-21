@@ -1,329 +1,41 @@
-# 🧬 Youssef Bechara | Architecting Intelligence
+# 💹 Youssef Bechara
 
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   █████╗ ██╗    ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
-║  ██╔══██╗██║    ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
-║  ███████║██║    ██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
-║  ██╔══██║██║    ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
-║  ██║  ██║██║    ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
-║  ╚═╝  ╚═╝╚═╝    ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%A7%A0+Deep+Learning+Architect+%7C+Quantitative+Researcher;%F0%9F%93%8A+Turning+Data+into+Alpha+%7C+Building+AGI+Solutions;%E2%9A%A1+Real-time+ML+Systems+%7C+Algorithmic+Trading" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=100&lines=Quantitative+Trading+Developer;MQL5+Expert+Advisor+Architect;Machine+Learning+%7C+Deep+Learning;Turning+Market+Data+Into+Alpha)
 
 </div>
 
 ---
 
-## 📡 System Status & Metrics Dashboard
-
 <div align="center">
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Youssef Bechara"
-        self.role = "AI/ML Engineer & Quantitative Developer"
-        self.location = "Building the Future 🌍"
-        self.knowledge_domains = [
-            "Deep Learning", "Algorithmic Trading", 
-            "Computer Vision", "NLP", "Quantitative Finance"
-        ]
-        
-    def daily_routine(self):
-        return {
-            "coffee": "☕" * 5,
-            "code": ["Python", "MQL5", "SQL"],
-            "research": ["arXiv", "Papers", "Market Data"],
-            "build": ["Neural Networks", "Trading Bots", "ML Pipelines"]
-        }
-    
-    def current_focus(self):
-        return """
-        🎯 Developing next-gen trading algorithms
-        🧬 Fine-tuning transformer architectures
-        📊 Building real-time ML inference systems
-        🚀 Exploring reinforcement learning in finance
-        """
-```
+### 🎯 Building Intelligent Trading Systems
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="33%">
 
-```yaml
-AI Engineer Specs:
-━━━━━━━━━━━━━━━━━━━━━━━━━━
-├─ 🧠 Neural Networks: ████████████ 95%
-├─ 📊 Data Science:    ███████████░ 92%
-├─ 💹 QuantFinance:    ██████████░░ 88%
-├─ ⚡ MLOps:           █████████░░░ 85%
-├─ 🎯 Deep Learning:   ████████████ 96%
-└─ 🔬 Research:        ██████████░░ 90%
+**💹 Algorithmic Trading**
 
-Status: 🟢 Available for collaboration
-Current Project: Reinforcement Learning Trading Bot
-Learning: Transformer Architectures & Attention
-```
+MQL5 Expert Advisors • Backtesting
+Risk Management • Portfolio Optimization
 
 </td>
-<td width="50%">
+<td align="center" width="33%">
 
-```yaml
-Tech Stack Proficiency:
-━━━━━━━━━━━━━━━━━━━━━━━━━━
-ML/AI:
-  ├─ TensorFlow/Keras  ▓▓▓▓▓▓▓▓▓▓ Expert
-  ├─ PyTorch           ▓▓▓▓▓▓▓▓▓░ Advanced
-  ├─ Scikit-learn      ▓▓▓▓▓▓▓▓▓▓ Expert
-  └─ OpenCV            ▓▓▓▓▓▓▓▓░░ Advanced
+**🤖 Machine Learning**
 
-Trading:
-  ├─ MQL5              ▓▓▓▓▓▓▓▓▓▓ Expert
-  ├─ Backtesting       ▓▓▓▓▓▓▓▓▓░ Advanced
-  └─ Risk Management   ▓▓▓▓▓▓▓▓▓░ Advanced
-
-Infrastructure:
-  ├─ Docker            ▓▓▓▓▓▓▓▓░░ Advanced
-  ├─ FastAPI           ▓▓▓▓▓▓▓▓▓░ Advanced
-  └─ Apache Spark      ▓▓▓▓▓▓▓░░░ Intermediate
-```
+TensorFlow • PyTorch • Scikit-learn
+Time Series Forecasting • NLP
 
 </td>
-</tr>
-</table>
+<td align="center" width="33%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0099FF&height=2"/>
+**📊 Data Science**
 
-</div>
-
----
-
-## 🎯 Research Focus & Innovation Pipeline
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((AI Research))
-    Deep Learning
-      Transformer Models
-      CNNs & Vision
-      RNNs & Time Series
-      GANs & Generation
-    Quantitative Finance
-      Algorithmic Trading
-      Risk Analytics
-      Portfolio Optimization
-      Market Prediction
-    MLOps & Deployment
-      Model Serving
-      A/B Testing
-      Monitoring
-      CI/CD Pipelines
-    Data Engineering
-      ETL Pipelines
-      Real-time Processing
-      Big Data Analytics
-      Feature Engineering
-```
-
-</div>
-
----
-
-## 📊 Performance Analytics & GitHub Insights
-
-<div align="center">
-
-### 🔥 Contribution Heatmap & Statistics
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=youssefbechara&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=0099FF&point=00D9FF&area=true&hide_border=true" />
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=youssefbechara&show_icons=true&theme=react&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=0099FF&hide_border=false&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics" />
-</td>
-<td width="50%">
-<img src="https://streak-stats.demolab.com/?user=youssefbechara&theme=react&background=0D1117&border=0099FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=8B949E" />
-</td>
-</tr>
-</table>
-
-### 📈 Language Distribution & Code Metrics
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefbechara&layout=compact&theme=react&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=0099FF&langs_count=12&hide=html,css,jupyter%20notebook" />
-</td>
-<td width="50%">
-
-```text
-🐍 Python          ████████████████░░░░  80.2%
-💎 MQL5            ███░░░░░░░░░░░░░░░░░  12.5%
-🗄️ SQL             ██░░░░░░░░░░░░░░░░░░   5.1%
-🔧 Shell           ░░░░░░░░░░░░░░░░░░░░   1.8%
-📜 Other           ░░░░░░░░░░░░░░░░░░░░   0.4%
-```
-
-**Most Used Libraries:**
-- `TensorFlow` • `PyTorch` • `Pandas` • `NumPy`
-- `Scikit-learn` • `Matplotlib` • `Plotly`
-- `FastAPI` • `Docker` • `Apache Spark`
-
-</td>
-</tr>
-</table>
-
-### 🏆 Achievement Showcase
-
-<img src="https://github-profile-trophy.vercel.app/?username=youssefbechara&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" />
-
-### 📊 Detailed Analytics Dashboard
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssefbechara&theme=github_dark" />
-
-<table>
-<tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youssefbechara&theme=github_dark" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=youssefbechara&theme=github_dark" /></td>
-</tr>
-<tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=youssefbechara&theme=github_dark" /></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youssefbechara&theme=github_dark&utc_offset=1" /></td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0099FF&height=2"/>
-
-</div>
-
----
-
-## 🛠️ Technology Stack & Arsenal
-
-<div align="center">
-
-### 🤖 Machine Learning & AI
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-
-### 📊 Data Science & Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-### 💹 Quantitative Finance & Trading
-
-![MQL5](https://img.shields.io/badge/MQL5-1C1C1C?style=for-the-badge&logo=metatrader5&logoColor=4EAA25)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ⚙️ MLOps & Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-
-### 🎨 Design & Visualization
-
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0099FF&height=2"/>
-
-</div>
-
----
-
-## 🎓 Expertise Matrix & Research Areas
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🧠 Deep Learning
-```python
-expertise = {
-  "CNNs": "Advanced",
-  "RNNs/LSTMs": "Expert",
-  "Transformers": "Advanced",
-  "GANs": "Intermediate",
-  "Attention": "Advanced"
-}
-```
-**Projects:** Image Classification, NLP Models, Time-Series Forecasting
-
-</td>
-<td align="center" width="25%">
-
-### 📈 Algo Trading
-```python
-skills = {
-  "MQL5": "Expert",
-  "Backtesting": "Advanced",
-  "Risk Mgmt": "Advanced",
-  "HFT": "Intermediate",
-  "Options": "Advanced"
-}
-```
-**Focus:** EA Development, Strategy Optimization, Market Microstructure
-
-</td>
-<td align="center" width="25%">
-
-### 🔬 Data Science
-```python
-toolbox = {
-  "Analysis": "Expert",
-  "Visualization": "Advanced",
-  "Feature Eng": "Expert",
-  "A/B Testing": "Advanced",
-  "Pipelines": "Advanced"
-}
-```
-**Domains:** Predictive Analytics, Statistical Modeling, ETL
-
-</td>
-<td align="center" width="25%">
-
-### ⚡ MLOps
-```python
-stack = {
-  "Docker": "Advanced",
-  "APIs": "Expert",
-  "Monitoring": "Advanced",
-  "CI/CD": "Intermediate",
-  "Serving": "Advanced"
-}
-```
-**Experience:** Model Deployment, Scalable Systems, Real-time ML
+Market Analytics • Feature Engineering
+Statistical Modeling • Visualization
 
 </td>
 </tr>
@@ -333,174 +45,255 @@ stack = {
 
 ---
 
-## 🚀 Featured Projects & Research
+## 📈 Trading Performance Metrics
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[Data Collection] -->|Clean & Process| B[Feature Engineering]
-    B -->|Train| C[Model Development]
-    C -->|Validate| D[Backtesting]
-    D -->|Deploy| E[Production Trading]
-    E -->|Monitor| F[Performance Analysis]
-    F -->|Optimize| C
-    
-    style A fill:#00D9FF,stroke:#0099FF,color:#000
-    style B fill:#00D9FF,stroke:#0099FF,color:#000
-    style C fill:#00D9FF,stroke:#0099FF,color:#000
-    style D fill:#00D9FF,stroke:#0099FF,color:#000
-    style E fill:#00D9FF,stroke:#0099FF,color:#000
-    style F fill:#00D9FF,stroke:#0099FF,color:#000
-```
-
-### 🎯 Current Research Focus
-
-| Area | Description | Status |
-|------|-------------|--------|
-| 🤖 **RL Trading Bot** | Developing reinforcement learning algorithms for adaptive trading strategies | 🟡 In Progress |
-| 🧬 **Transformer Fine-tuning** | Custom transformer architectures for financial time-series prediction | 🟢 Active |
-| 📊 **Real-time ML Pipeline** | Building low-latency inference systems for high-frequency trading | 🟡 In Progress |
-| 🔍 **Market Sentiment Analysis** | NLP models for social media and news sentiment extraction | 🟢 Active |
-| 💹 **Portfolio Optimization** | ML-driven portfolio construction and risk management | 🔵 Planning |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=youssefbechara&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&border_radius=10" />
+<img width="49%" src="https://streak-stats.demolab.com?user=youssefbechara&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&border_radius=10" />
 
 </div>
 
 ---
 
-## 📚 Knowledge Base & Learning
+## 🔥 Market Activity & Contribution Flow
 
 <div align="center">
 
-```text
-📖 Reading List (2024):
-├─ "Deep Learning" - Goodfellow, Bengio, Courville
-├─ "Advances in Financial Machine Learning" - Marcos López de Prado
-├─ "Machine Learning for Algorithmic Trading" - Stefan Jansen
-├─ "Probabilistic Machine Learning" - Kevin Murphy
-└─ "Designing Data-Intensive Applications" - Martin Kleppmann
-
-🎓 Recent Certifications & Courses:
-├─ Deep Learning Specialization (deeplearning.ai)
-├─ Advanced Machine Learning with TensorFlow on GCP
-├─ Algorithmic Trading & Quantitative Analysis
-└─ MLOps: Production ML Systems
-
-📝 Publications & Articles:
-├─ "Real-time Market Prediction using LSTMs"
-├─ "Optimizing Trading Strategies with Reinforcement Learning"
-└─ "Feature Engineering for Financial Time Series"
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefbechara&custom_title=Trading%20Development%20Activity&bg_color=0d1117&color=00ff88&line=00d9ff&point=00ff88&area=true&hide_border=true&area_color=00ff88" />
 
 </div>
 
 ---
 
-## 🌐 Connect & Collaborate
+## 💼 Technical Stack
 
 <div align="center">
 
-### Let's Build Something Amazing Together! 🚀
+### 📊 Trading & Finance
+![MQL5](https://img.shields.io/badge/MQL5-00ff88?style=for-the-badge&logo=metatrader5&logoColor=black)
+![Trading](https://img.shields.io/badge/Algorithmic_Trading-00d9ff?style=for-the-badge)
+![Backtesting](https://img.shields.io/badge/Backtesting-00ff88?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-00d9ff?style=for-the-badge&logo=mysql&logoColor=black)
+
+### 🧠 Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-00ff88?style=for-the-badge&logo=python&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-00d9ff?style=for-the-badge&logo=tensorflow&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-00ff88?style=for-the-badge&logo=pytorch&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-00d9ff?style=for-the-badge&logo=keras&logoColor=black)
+
+### 📊 Data Analysis
+![Pandas](https://img.shields.io/badge/Pandas-00ff88?style=for-the-badge&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-00d9ff?style=for-the-badge&logo=numpy&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-00ff88?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-00d9ff?style=for-the-badge&logo=plotly&logoColor=black)
+
+### ⚙️ Tools & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-00ff88?style=for-the-badge&logo=docker&logoColor=black)
+![Git](https://img.shields.io/badge/Git-00d9ff?style=for-the-badge&logo=git&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-00ff88?style=for-the-badge&logo=fastapi&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-00d9ff?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 Language Distribution & Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefbechara&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_radius=10&langs_count=10" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=youssefbechara&theme=chartreuse_dark" />
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssefbechara&theme=chartreuse_dark" />
+
+</div>
+
+---
+
+## 🏆 Achievement Showcase
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=youssefbechara&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Stars,Commits,Repositories,Followers,PullRequest,Issues" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="50%">
 
-[![Website](https://img.shields.io/badge/🌐_Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://sites.google.com/view/scitrade/)
-
-</td>
-<td align="center">
-
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefbechara.ap@gmail.com)
+### 🤖 AI Voice Cloner
+Advanced voice cloning system using deep learning
+![Python](https://img.shields.io/badge/Python-00ff88?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-00d9ff?style=flat-square)
 
 </td>
-<td align="center">
+<td align="center" width="50%">
 
-[![Kaggle](https://img.shields.io/badge/📊_Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/youssefbechara)
+### 📊 SQL Stock Assistant
+Intelligent stock market analysis tool
+![Python](https://img.shields.io/badge/Python-00ff88?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-00d9ff?style=flat-square)
 
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" width="50%">
 
-[![YouTube](https://img.shields.io/badge/🎥_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/youssefbechara8809)
-
-</td>
-<td align="center">
-
-[![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/youssef_.bechara)
+### 📈 Google Trends Trading Analysis
+Market sentiment analysis from search trends
+![Python](https://img.shields.io/badge/Python-00ff88?style=flat-square)
+![Analytics](https://img.shields.io/badge/Analytics-00d9ff?style=flat-square)
 
 </td>
-<td align="center">
+<td align="center" width="50%">
 
-[![Discord](https://img.shields.io/badge/💬_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/youssefbechara)
+### 🎬 AI TikTok Generator
+Automated video generation and upload system
+![Python](https://img.shields.io/badge/Python-00ff88?style=flat-square)
+![AI](https://img.shields.io/badge/AI-00d9ff?style=flat-square)
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0099FF&height=2"/>
+</div>
 
-### 💡 Open to:
-```yaml
-Collaboration: [Research Projects, Open Source Contributions]
-Consulting: [ML Strategy, Trading Systems, Data Architecture]
-Speaking: [Tech Talks, Workshops, Conferences]
-Mentoring: [AI/ML Students, Junior Developers]
+---
+
+## 💡 Current Focus
+
+<div align="center">
+
+```diff
++ 🎯 Developing MQL5 Expert Advisors for automated trading
++ 🧠 Training deep learning models for market prediction
++ 📊 Building real-time trading analytics systems
++ 🔬 Researching quantitative trading strategies
++ ⚡ Optimizing backtesting frameworks for strategy validation
 ```
 
 </div>
 
 ---
 
-## 💭 Philosophy & Approach
+## 📊 Detailed Performance Analytics
 
 <div align="center">
 
-```python
-class ResearchPhilosophy:
-    """
-    My approach to AI and Quantitative Finance
-    """
-    def __init__(self):
-        self.principles = {
-            "data_driven": "Let the data speak, but always question it",
-            "rigorous_testing": "Backtest religiously, deploy cautiously",
-            "continuous_learning": "The field evolves daily, so must I",
-            "open_collaboration": "Great ideas emerge from diverse minds",
-            "ethical_ai": "Build systems that benefit humanity"
-        }
-    
-    def workflow(self):
-        return """
-        1. 🔍 Research & Hypothesis Formation
-        2. 📊 Data Collection & Exploratory Analysis
-        3. 🧪 Experimentation & Model Development
-        4. 📈 Rigorous Backtesting & Validation
-        5. 🚀 Deployment & Continuous Monitoring
-        6. 🔄 Iteration Based on Real-world Performance
-        """
-    
-    def quote(self):
-        return "At the intersection of mathematics, computer science, \
-                and finance lies the future of intelligent markets."
-```
-
-> **"In God we trust, all others must bring data."** — W. Edwards Deming
-
-> **"The best way to predict the future is to invent it."** — Alan Kay
+<table>
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youssefbechara&theme=chartreuse_dark" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youssefbechara&theme=chartreuse_dark&utc_offset=1" /></td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=youssefbechara&theme=chartreuse_dark" /></td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 Visitor Analytics & Engagement
+## 🎓 Skills & Expertise
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=youssefbechara&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/youssefbechara?style=for-the-badge&color=0099FF&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/youssefbechara?style=for-the-badge&color=00D9FF&label=TOTAL+STARS&logo=github)
+<table>
+<tr>
+<td width="50%">
+
+### Trading Systems
+- ✅ MQL5 Expert Advisor Development
+- ✅ Algorithmic Trading Strategies
+- ✅ Backtesting & Optimization
+- ✅ Risk Management Systems
+- ✅ Portfolio Management
+- ✅ Market Microstructure Analysis
+
+</td>
+<td width="50%">
+
+### Machine Learning
+- ✅ Deep Learning (TensorFlow, PyTorch)
+- ✅ Time Series Forecasting
+- ✅ Natural Language Processing
+- ✅ Computer Vision
+- ✅ Feature Engineering
+- ✅ Model Deployment & MLOps
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Data Science
+- ✅ Statistical Analysis
+- ✅ Data Visualization
+- ✅ Predictive Modeling
+- ✅ A/B Testing
+- ✅ Big Data Processing
+- ✅ ETL Pipelines
+
+</td>
+<td width="50%">
+
+### Tools & Technologies
+- ✅ Python, MQL5, SQL
+- ✅ Docker, Git, Linux
+- ✅ FastAPI, Flask
+- ✅ MySQL, PostgreSQL
+- ✅ Apache Spark
+- ✅ Cloud Platforms (AWS)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=google-chrome&logoColor=black)](https://sites.google.com/view/scitrade/)
+[![Email](https://img.shields.io/badge/Email-00d9ff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:youssefbechara.ap@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-00ff88?style=for-the-badge&logo=kaggle&logoColor=black)](https://kaggle.com/youssefbechara)
+[![YouTube](https://img.shields.io/badge/YouTube-00d9ff?style=for-the-badge&logo=youtube&logoColor=black)](https://www.youtube.com/c/youssefbechara8809)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff88?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/youssefbechara)
+[![Instagram](https://img.shields.io/badge/Instagram-00d9ff?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/youssef_.bechara)
+
+</div>
+
+---
+
+## 📊 Visitor Statistics
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=youssefbechara&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/youssefbechara?style=for-the-badge&color=00d9ff&label=FOLLOWERS&logo=github&logoColor=black)
+![Stars](https://img.shields.io/github/stars/youssefbechara?style=for-the-badge&color=00ff88&label=TOTAL+STARS&logo=github&logoColor=black)
+
+</div>
+
+---
+
+<div align="center">
 
 ### 🐍 Contribution Snake
 
@@ -512,27 +305,12 @@ class ResearchPhilosophy:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,21&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=00ff88&animation=twinkling&fontAlignY=70" width="100%"/>
 
-```text
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   "Transforming data into intelligence, algorithms into alpha,           ║
-║    and ideas into reality — one model at a time."                        ║
-║                                                                           ║
-║   💡 Always Learning | 🚀 Forever Building | 🧠 Constantly Innovating    ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
+### 💡 *"In trading, as in life: adapt, learn, and evolve"*
 
-**⭐ If you find my work interesting, consider starring some repositories!**
+**⭐ Open to collaborations • 💬 Let's build something amazing • 🚀 Always learning**
 
-**💬 Open to collaborations, research discussions, and innovative projects**
+<sub>🔄 Last Updated: December 2024 | 💹 Built with passion for quantitative trading | ⚡ Powered by data & algorithms</sub>
 
-</div>
-
----
-
-<div align="center">
-<sub>Last Updated: December 2024 | Built with 💙 and ☕ | Powered by AI & Data</sub>
 </div>
